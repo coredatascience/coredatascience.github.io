@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Introduction to Data Science
+title: Core Principles of Data Science
 author:
   name: Heather Mattie
   email: hemattie@hsph.harvard.edu
