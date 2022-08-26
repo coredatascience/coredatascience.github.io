@@ -6,7 +6,7 @@ title: Resources
 Resources will be posted here throughout the semester. 
 
 #### R Packages
-The list of R packages needed for this course can be found [here](https://docs.google.com/document/d/1vOIPVXszwLL3peeyqNkrGPLuhfj_80Q4UyyjJrexcEU/edit?usp=sharing). 
+The list of R packages needed for this course can be found [here](https://docs.google.com/document/d/1JzB7DwEUPvUBWvM3ZYwVur-5sOqlGyg1x30gjsd2W5Q/edit?usp=sharing). 
 
 #### Course Communication
 
