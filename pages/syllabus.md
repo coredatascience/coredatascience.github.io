@@ -47,7 +47,7 @@ A take-home midterm will be distributed in the form of an RMarkdown file in Octo
 
 **Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
 
-### Final Project 
+#### Final Project 
 Students will work in small groups on a month-long data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
 
 #### Required Textbook
@@ -58,7 +58,7 @@ None. Instead, we have a list of recommended readings on the website.
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TFs during class. Feel free to ask questions during class, or anytime. [Join Slack here!]() More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
+will be monitored by the TFs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst2192022/shared_invite/zt-1dyho6m46-s3TQ2RV5W8t_YZ0TDMGvvA) More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
 
 #### Schedule 
 
