@@ -18,6 +18,10 @@ title: Core Principles of Data Science
 
 ### Teaching Assistants
 
+* Rebecca Astatke - rastatke@g.harvard.edu
+* Luke Benz - lukebenz@g.harvard.edu
+* Carmen Rodriguez Cabrera - crodriguezcabrera@g.harvard.edu
+* Jerry Chang - chiarui_chang@g.harvard.edu
 
 ### Office Hours
 
@@ -25,14 +29,15 @@ Note: all office hours will be held in-person AND online via Zoom links in Canva
 
 | Day      | Time | Location     |
 | :---     |    :----   |    :--- |
-| Monday   |      |  |
-| Monday   |       | |
-| Tuesday   |   |  |
-| Wednesday   |       |  |
-| Thursday   |     |  |
+| Tuesday   |  1:30-2:30 pm    | TBD |
+| Tuesday   |  2:30-3:30pm     | Building 1, 4th floor, room 421A|
+| Wednesday |  10:30-11:30 am  | TBD |
+| Wednesday |  1:00-2:00 pm    | TBD |
+| Thursday  |  2:00-3:00 pm    | TBD |
 
 ### Labs
 
-
+Fridays 9:45-11:15am, Room TBD
+Please note that lab will not be held all weeks of the semester. The schedule will be posted on the course Canvas site. 
 
 #### Note that all lectures and Lab sessions will be recorded and available on the course Canvas site.
