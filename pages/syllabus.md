@@ -19,7 +19,7 @@ This class focuses on methods for learning from data, in order to gain useful pr
 #### What is the structure of this course?
 We will learn these concepts through six data analysis projects. Grades will be based on:
 
-* 3-4 homeworks (40%)
+* 4 homeworks (40%)
 * 1 take-home midterm (25%)
 * 1 final project (35%)
 
@@ -33,14 +33,14 @@ Although each student is given late days, we will be accepting homework from stu
 
 **Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
 
-The TAs must be able to knit submitted RMarkdown files. The penalty for not being able to knit a file while grading increases for each subsequent homework – see breakdown below. To avoid this, students should be sure to include relative paths to files, data, images, etc. rather than absolute paths. Examples of how to include paths will be given in lecture and lab sessions. Students may also double check with the teaching staff before submitting assignments. 
+The TFs must be able to knit submitted RMarkdown files. The penalty for not being able to knit a file while grading increases for each subsequent homework – see breakdown below. To avoid this, students should be sure to include relative paths to files, data, images, etc. rather than absolute paths. Examples of how to include paths will be given in lecture and lab sessions. Students may also double check with the teaching staff before submitting assignments. 
 
 * 0 points for HW1
 * 5 points for HW2
 * 10 points for HW3
 * 15 points for HW4
 
-**Students may ask questions about the assignments during lecture, but we ask that any questions about grading be directed to the TAs or Dr. Mattie outside of lecture and lab sessions via email.**
+**Students may ask questions about the assignments during lecture, but we ask that any questions about grading be directed to the TFs or Dr. Mattie outside of lecture and lab sessions via email.**
 
 #### Take-home Midterm
 A take-home midterm will be distributed in the form of an RMarkdown file in October (date TBD) to test comprehension of course material. The exam will consist of multiple-choice questions that may or may not require writing code, coding questions and short answer questions. All code used and text answers must be submitted using the RMarkdown file. Students will have 1 week to work on the exam and must submit the exam via Canvas by 11:59pm on the deadline (TBD). **Students are encouraged to use lecture slides and code, lab material, homework assignments and the Internet to work on the exam, but may not work or consult with other students. The teaching staff will be available to answer any questions concerning the exam.** 
@@ -48,16 +48,17 @@ A take-home midterm will be distributed in the form of an RMarkdown file in Octo
 **Due to the unpredictable nature of COVID-19 students in need of extra time to complete assignments should reach out to Student Affairs at StudentAffairs@hsph.harvard.edu. A staff member will work with you and Dr. Mattie to accommodate you. You can also contact Student Affairs if you have a learning disability that requires accommodations. We will ensure you are accommodated as needed.**
 
 ### Final Project 
+Students will work in small groups on a month-long data science project. The goal of the project is to go through the complete data science process to answer an assigned prompt. You will be given a dataset and series of questions to answer. You will design your visualizations, run statistical analyses, and communicate results. A full description is available on the course website.
 
 #### Required Textbook
-None. Instead, we have a list of recommended readings on the web site.
+None. Instead, we have a list of recommended readings on the website.
 
 #### Course Website
 [GitHub](http://coredatascience.github.io/)
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TAs during class. Feel free to ask questions during class, or anytime. [Join Slack here!]() More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
+will be monitored by the TFs during class. Feel free to ask questions during class, or anytime. [Join Slack here!]() More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
 
 #### Schedule 
 
