@@ -9,9 +9,9 @@ Each group must complete and submit [this project preference form](https://docs.
 
 
 ## Project Prompt
-You and your team of data scientists were hired by a company to gain insights on the dataset in your chosen prompt. 
+You and your team of data scientists were hired by a company to gain insights on the dataset in your assigned prompt. 
 
-1. Perform any necessary data pre-processing and cleaning, and document your steps. Depending on the prompt you selected, this may involve transforming variables, creating new variables, and merging data frames. In particular, you may need to make some decisions on how to handle missing data, such as removing rows or columns with a significant amount of missing observations, creating an "unknown" category, or replacing/imputing the missing values. You do not need to develop a rigorous process or cite references, but please briefly justify your choices. 
+1. Perform any necessary data pre-processing and cleaning, and document your steps. Depending on the prompt you are assigned, this may involve transforming variables, creating new variables, and merging data frames. In particular, you may need to make some decisions on how to handle missing data, such as removing rows or columns with a significant amount of missing observations, creating an "unknown" category, or replacing/imputing the missing values. You do not need to develop a rigorous process or cite references, but please briefly justify your choices. 
 
 2. Make and interpret 4-10 visualizations to help you understand the relationships between the variables in your dataset. We highly encourage you to explore the data on your own, but when preparing your response to this question, please be parsimonious in your plots and select visualizations that help you tell a story about the data. If you need to make additional plots to support your responses to the other questions (e.g. to motivate data cleaning or modeling choices), that's fine. 
 
@@ -23,7 +23,7 @@ model_matrix = model.matrix(~.-1, my_covariate_df)
 
 4. The company stakeholders want to know what decision they should make on their stated goal/question. Based on your analysis, make recommendations for a non-technical audience. 
 
-5. Any additional information that might be useful to collect/have? Other open-ended/non-coding question(s)? 
+5. Is there any additional information or data that might be useful to collect/have for answering your prompt?
 
 
 ## Project Options
