@@ -5,7 +5,7 @@ title: Final Projects
 
 Students will work in small groups of 3-4 students on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about an assigned dataset and prompt. Canvas or Slack can be used to find prospective team members. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
-Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSd5ankpYNTgtTjWJsRAatK0rGHqnPKfAVTRMDubv_7j29enew/viewform?usp=sf_link) **by 11:59 pm EST on November 7, 2022**. We will take preferences into account when assigning each group a project.
+Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSd5ankpYNTgtTjWJsRAatK0rGHqnPKfAVTRMDubv_7j29enew/viewform?usp=sharing) **by 11:59 pm EST on November 7, 2022**. We will take preferences into account when assigning each group a project.
 
 
 ## Project Prompt
