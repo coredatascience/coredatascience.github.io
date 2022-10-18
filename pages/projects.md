@@ -68,7 +68,7 @@ There are a few milestones for the final project. **It is critical to note that
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 ### Team Registration and Preferences
-Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSd5ankpYNTgtTjWJsRAatK0rGHqnPKfAVTRMDubv_7j29enew/viewform?usp=sf_link) **by 11:59 pm EST on November 7, 2022**. We will take preferences into account when assigning each group a project. Each group only needs to submit 1 form. A teaching fellow will be assigned to each team and will help guide students through the project. Students will schedule a project review meeting with their assigned TF within the following two weeks (November 7-18, 2021). Students should ensure all of your team members are present at the meeting.
+Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSd5ankpYNTgtTjWJsRAatK0rGHqnPKfAVTRMDubv_7j29enew/viewform?usp=sharing) **by 11:59 pm EST on November 7, 2022**. We will take preferences into account when assigning each group a project. Each group only needs to submit 1 form. A teaching fellow will be assigned to each team and will help guide students through the project. Students will schedule a project review meeting with their assigned TF within the following two weeks (November 7-18, 2021). Students should ensure all of your team members are present at the meeting.
 
 
 ### RMarkdown and HTML Files
@@ -93,7 +93,7 @@ Your teammates' assessment of your contributions and the accuracy of your self-a
 
 
 #### How to submit the Peer Assessment (due Monday, December 12 by 11:59pm EST)
-Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScQaOxM9WOt0bsO3vWA2vy26yHvkUtOzy5gby5alU3Rj33HHA/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment. 
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScQaOxM9WOt0bsO3vWA2vy26yHvkUtOzy5gby5alU3Rj33HHA/viewform?usp=sharing). Your individual project score will take into account your self and peer assessment. 
 
 
 ## Grading
