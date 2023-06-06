@@ -58,7 +58,7 @@ None. Instead, we have a list of recommended readings on the website.
 
 #### Course Communication
 We will use Slack to organize course discussions. Each lecture will have a channel that
-will be monitored by the TFs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst2192022/shared_invite/zt-1dyho6m46-s3TQ2RV5W8t_YZ0TDMGvvA) More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
+will be monitored by the TFs during class. Feel free to ask questions during class, or anytime. [Join Slack here!](https://join.slack.com/t/bst2192023/shared_invite/zt-1wo43n5bm-r3CdPJRt4uaq~uCbOj2zow) More information on how to use Slack is posted on our [Resources](http://coredatascience.github.io/pages/resources.html) page.
 
 #### Schedule 
 
