@@ -1,10 +1,10 @@
 # Site settings"
 course_name: Core Principles of Data Science
 course_description: "Modern technology has led to the generation of unprecedented amounts of data, prompting the need to train researchers to leverage data for decision-making in public health and medicine. This course assumes no prior R or programming knowledge and serves as a gentle, practical introduction to wrangling, visualizing, and modeling data using the R statistical programming language. We also emphasize the importance of reproducible research and effective data science communication."
-course_semester: "Fall 2023"
+course_semester: "Fall 2024"
 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://coredatascience-fa23.github.io" # the base hostname & protocol for your site
+url: "http://coredatascience.github.io" # the base hostname & protocol for your site
 
 schoolname: Harvard T.H. Chan School of Public Health
 schoolurl: "http://www.hsph.harvard.edu"
