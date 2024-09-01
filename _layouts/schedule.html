@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<header class="post-header">
+    <h1 class="post-title">Schedule</h1>
+</header>
+
+{{ content }}
+
+<div class="home" style="font-size: 0.8em;">
+    <div id="schedule_table" class="container-fluid">
+        <div class="row table-header week">
+            <div class="col col-1 align-self-center">Week</div>
+            <div class="col-11">
+                <div class="row event-row">
+                    <div class="col col-1">Event</div>
+                    <div class="col col-2">Date</div>
+                    <div class="col col-4">Description</div>
+                    <div class="col col-4">Course Material</div>
+                </div>
+            </div>
+        </div>
+        <hr class="row"/>
+        {% assign all_assignment_dues = site.homeworks | where_exp: "hw", "hw.due_event" | map: "due_event" %}
+        {% assign all_events = site.events | concat: site.lectures %}
+        {% assign all_events = all_events | concat: site.homeworks %}
+        {% assign all_events = all_events | concat: site.labs %}
+        {% assign all_events = all_events | concat: all_assignment_dues %}
+        {% assign all_events_sorted = all_events | sort: 'date' %}
+
+        {% assign week_idx = 0 %}
+        {% assign current_week = -1 %}
+        {% for event in all_events_sorted %}
+            {% assign week = event.date | date: "%W" %}
+            {% if week != current_week %}
+                {% unless forloop.first == true %}
+                    </div></div>
+                    <hr class="row"/>
+                {% endunless %}
+                {% assign current_week = week %}
+                {% assign week_idx = week_idx | plus: 1 %}
+                <div class="row week">
+                    <div class="col col-1 align-self-center"> {{ week_idx | prepend: '0' | slice: -2, 2 }}</div>
+                    <div class="col-11">
+            {% endif %}
+            <div class="row event-row table-row-{{ event.type}}">
+                {% include schedule_row_{{ event.type }}.html event=event %}
+            </div>
+        {% endfor %}
+        </div></div>
+    </div>

@@ -1,0 +1,9 @@
+instructors:
+  - name: Dongdong Li
+    profile_pic: /_images/dongdong.jpg
+    email: dongdongli [at] hsph.harvard.edu
+
+teaching_assistants:
+  - name: Luke Benz 
+    profile_pic: /_images/luke.jpg
+    email: lukebenz [at] g.harvard.edu
