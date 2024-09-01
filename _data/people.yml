@@ -1,9 +1,17 @@
 instructors:
-  - name: Dongdong Li
-    profile_pic: /_images/dongdong.jpg
-    email: dongdongli [at] hsph.harvard.edu
+  - name: Heather Mattie
+    profile_pic: /_images/heather_mattie.jpg
+    email: hemattie [at] hsph.harvard.edu
 
 teaching_assistants:
-  - name: Luke Benz 
-    profile_pic: /_images/luke.jpg
-    email: lukebenz [at] g.harvard.edu
+  - name: Carmen Rodriguez Cabrera
+    profile_pic: 
+    email: crodriguezcabrera [at] g.harvard.edu
+
+  - name: Khondoker Nabi aka "Nabi"
+    profile_pic: 
+    email: knabi [at] g.harvard.edu
+
+  - name: Xin Xiong
+    profile_pic: 
+    email: xinxiong [at] hsph.harvard.edu
