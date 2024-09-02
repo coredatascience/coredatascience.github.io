@@ -5,7 +5,7 @@ instructors:
 
 teaching_assistants:
   - name: Carmen Rodriguez Cabrera
-    profile_pic: 
+    #profile_pic: 
     email: crodriguezcabrera [at] g.harvard.edu
 
   - name: Khondoker Nabi aka "Nabi"
@@ -13,5 +13,5 @@ teaching_assistants:
     email: knabi [at] g.harvard.edu
 
   - name: Xin Xiong
-    profile_pic: 
+    #profile_pic: 
     email: xinxiong [at] hsph.harvard.edu
