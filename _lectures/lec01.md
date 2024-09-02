@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-08-28 11:30:00
+date: 2024-09-03 09:45:00
 title: Introduction to Course, R and RMarkdown
 # tldr: "Lecture 1"
 thumbnail: /static_files/lectures/lec1/lec1.png
