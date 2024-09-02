@@ -5,19 +5,21 @@ permalink: /project/
 ---
 
 
-Students will work in small groups of 4-5 students on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about an assigned dataset and prompt. Canvas or Slack can be used to find prospective team members. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
+Students will work in small groups of 4-5 students on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about an assigned dataset and prompt. Canvas can be used to find prospective team members. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
 
-Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSfvhegiqPG-jQtQvqaIz6jnyLrSv-sOpiF4V3qvQdSTMHK3zQ/viewform?usp=sf_link) **by 11:59 pm EST on November 6, 2023**. We will take preferences into account when assigning each group a project.
+Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSeEa9OG1BxpXtrSFdtO11NWlU8sfKQlirqqbJGrZJRStZw7Vg/viewform?usp=sf_link) **by 11:59 pm EST on November 12, 2024**. We will take preferences into account when assigning each group a project.
 
 
 ## Project Prompt
-You and your team of data scientists were hired by a company to gain insights on the dataset in your assigned prompt. 
+You and your team of data scientists were hired by a company to gain insights on the dataset in your assigned prompt.
 
-1. Perform any necessary data pre-processing and cleaning, and document your steps. Depending on the prompt you are assigned, this may involve transforming variables, creating new variables, and merging data frames. In particular, you may need to make some decisions on how to handle missing data, such as removing rows or columns with a significant amount of missing observations, creating an "unknown" category, or replacing/imputing the missing values. You do not need to develop a rigorous process or cite references, but please briefly justify your choices. 
+1. Perform any necessary data pre-processing and cleaning, and document your steps. Depending on the prompt you are assigned, this may involve transforming variables, creating new variables, and merging data frames. In particular, you may need to make some decisions on how to handle missing data, such as removing rows or columns with a significant amount of missing observations, creating an "unknown" category, or replacing/imputing the missing values. You do not need to develop a rigorous process or cite references, but please briefly justify your choices.
 
-2. Make and interpret 4-10 visualizations to help you understand the relationships between the variables in your dataset. We highly encourage you to explore the data on your own, but when preparing your response to this question, please be parsimonious in your plots and select visualizations that help you tell a story about the data. If you need to make additional plots to support your responses to the other questions (e.g. to motivate data cleaning or modeling choices), that's fine. 
+2. Include a "Table 1" of summary statistics for the variables you end up using in your models.
 
-3. Build any 2 machine learning models that use your choice of covariates to predict the given outcome variable. Explain why you chose those covariates and interpret the models. If you are including categorical variables as covariates in a `glmnet` model (lasso or ridge regression), please remember that you will need to convert your covariate data frame into a *model matrix*, e.g. by calling the `model.matrix` function:
+3. Make and interpret 4-10 visualizations to help you understand the relationships between the variables in your dataset. We highly encourage you to explore the data on your own, but when preparing your response to this question, please be parsimonious in your plots and select visualizations that help you tell a story about the data. If you need to make additional plots to support your responses to the other questions (e.g., to motivate data cleaning or modeling choices), that's fine. 
+
+4. Build any 2 machine learning models that use your choice of covariates to predict the given outcome variable. Explain why you chose those covariates and interpret the models. If you are including categorical variables as covariates in a `glmnet` model (lasso or ridge regression), please remember that you will need to convert your covariate data frame into a *model matrix*, e.g., by calling the `model.matrix` function:
 
 ```r
 model_matrix = model.matrix(~.-1, my_covariate_df)
@@ -60,21 +62,21 @@ There are a few milestones for the final project. **It is critical to note that
 {:class="table table-bordered"}
 | Date       | Description |
 | ------------- |-------------|
-| November 6 by 11:59pm EST| Form a team and submit the project preference sheet|
-| November 6 - 17| Project review meeting with your assigned TF |
-| December 11 by 11:59pm EST| RMarkdown and compiled HTML due |
-| December 11 by 11:59pm EST| Peer assessment due |
+| November 12 by 11:59pm EST| Form a team and submit the project preference sheet|
+| November 12 - 19| Project review meeting with your assigned TF |
+| December 16 by 11:59pm EST| RMarkdown and compiled HTML due |
+| December 16 by 11:59pm EST| Peer assessment due |
 
 
 ## Deliverables
 There are several deliverables for your project that will be graded individually to make up your final project score.
 
 ### Team Registration and Preferences
-Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSfvhegiqPG-jQtQvqaIz6jnyLrSv-sOpiF4V3qvQdSTMHK3zQ/viewform?usp=sf_link) **by 11:59 pm EST on November 6, 2023**. We will take preferences into account when assigning each group a project. Each group only needs to submit 1 form. A teaching fellow will be assigned to each team and will help guide students through the project. Students will schedule a project review meeting with their assigned TF within the following two weeks (November 7-18, 2021). Students should ensure all of your team members are present at the meeting.
+Each group must complete and submit [this project preference form](https://docs.google.com/forms/d/e/1FAIpQLSeEa9OG1BxpXtrSFdtO11NWlU8sfKQlirqqbJGrZJRStZw7Vg/viewform?usp=sf_link) **by 11:59 pm EST on November 12, 2024**. We will take preferences into account when assigning each group a project. Each group only needs to submit 1 form. A teaching fellow will be assigned to each team and will help guide students through the project. Students will schedule a project review meeting with their assigned TF within the following week (November 12-19, 2024). Students should ensure all of your team members are present at the meeting.
 
 
 ### RMarkdown and HTML Files
-An important part of the project is the RMarkdown and associated HTML file. These will detail the steps taken in answering each of the project prompt questions. Equally important to the final results is how the team got there! The RMarkdown and HTML files are the place you describe and document the space of possibilities explored at each step of the project. The RMarkdown and HTML files are due Monday, December 11 by 11:59pm EST. Your assigned TF will create a repository for you to submit your project files.
+An important part of the project is the RMarkdown and associated HTML file. These will detail the steps taken in answering each of the project prompt questions. Equally important to the final results is how the team got there! The RMarkdown and HTML files are the place you describe and document the space of possibilities explored at each step of the project. The RMarkdown and HTML files are due Monday, December 16 by 11:59pm EST. Your assigned TF will create a repository for you to submit your project files.
 
 
 ### Code
@@ -91,12 +93,12 @@ It is important to provide positive feedback to people who truly worked hard for
 
 * **Flexibility**: were they flexible when disagreements occurred?
 
-Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Monday, December 11 by 11:59pm EST. For instructions on how to submit, please see _**Submission Instructions**_ below. 
+Your teammates' assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score. The peer assessment is due Monday, December 16 by 11:59pm EST. For instructions on how to submit, please see _**Submission Instructions**_ below. 
 
 
 
-_**Submission Instructions**_ **(due Monday, December 11 by 11:59pm EST)**
+_**Submission Instructions**_ **(due Monday, December 16 by 11:59pm EST)**
 
-Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSfEdEkbi66Ua7ESmo0akM0nL1x27KNwMY3KG7xDz1EMgeEF-w/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.  
+Each individual team member needs to fill out this [google form for the peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdzptqXyyZbk0z2q9YqnaaWjcchCoh1Xq3dQ2HF8gFv1fXSzg/viewform?usp=sf_link). Your individual project score will take into account your self and peer assessment.  
 
 
