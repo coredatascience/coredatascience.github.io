@@ -1,0 +1,1 @@
+- Midterm details will be posted in October.
