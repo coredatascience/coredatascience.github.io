@@ -8,7 +8,7 @@ thumbnail: /static_files/lectures/lec2/lec2.png
 #     - url: https://github.com/coredatascience-fa23/BST219/blob/main/00_course_introduction/Lecture_01.pdf
 #       name: lecture slides
 hide_from_announcments: true
-publish: true
+publish: false
 ---
 HW1 Assigned
 
