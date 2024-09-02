@@ -1,17 +1,13 @@
 instructors:
   - name: Heather Mattie
-    profile_pic: /_images/heather_mattie.jpg
     email: hemattie [at] hsph.harvard.edu
 
 teaching_assistants:
   - name: Carmen Rodriguez Cabrera
-    #profile_pic: 
     email: crodriguezcabrera [at] g.harvard.edu
 
   - name: Khondoker Nabi aka "Nabi"
-    profile_pic: /_images/nabi.jpg
     email: knabi [at] g.harvard.edu
 
   - name: Xin Xiong
-    #profile_pic: 
     email: xinxiong [at] hsph.harvard.edu
