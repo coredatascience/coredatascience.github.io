@@ -1,1 +1,6 @@
-- To be released in October, date TBD
+---
+layout: page
+title: Midterm
+permalink: /midterm/
+date: 2024-09-03
+---
