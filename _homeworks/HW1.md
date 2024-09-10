@@ -3,7 +3,7 @@ type: homework
 date: 2024-09-03 01:00:00
 title: 'Homework #1'
 # pdf: /static_files/homeworks/01/asg.pdf
-# github: https://github.com/coredatascience/BST219_2024/tree/main/Homework/2024HW1
+github: https://github.com/coredatascience/BST219_2024/tree/main/Homework/2024HW1
 # solutions: /static_files/homeworks/01/asg_solutions.pdf
 hide_from_announcments: true
 due_event: 
