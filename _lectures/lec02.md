@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-09-05 09:45:00
-title: Introduction to Git, GitHub, and homework submission
+title: Introduction to Git, GitHub, and homework submission (9/5)
 # tldr: ...
 thumbnail: /static_files/lectures/lec2/lec2.png
 # links:
