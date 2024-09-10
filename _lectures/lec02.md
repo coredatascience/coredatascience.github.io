@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-08-30 11:30:00
+date: 2024-09-05 09:45:00
 title: Introduction to Git, GitHub, and homework submission
 # tldr: ...
 thumbnail: /static_files/lectures/lec2/lec2.png
