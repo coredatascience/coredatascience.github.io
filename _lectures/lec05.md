@@ -5,7 +5,7 @@ title: Vectors and sorting
 # tldr: ...
 thumbnail: /static_files/lectures/mod1/mod1_lec_thumnail.png
 # links:
-#     - url: https://github.com/coredatascience-fa23/BST219/blob/main/00_course_introduction/Lecture_01.pdf
+#     - url: https://github.com/coredatascience/BST219_2024/blob/main/Lecture_Slides/Lecture_05.pdf
 #       name: lecture slides
 hide_from_announcments: true
 publish: true
