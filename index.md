@@ -18,7 +18,7 @@ Office hours will mostly be held in-person (see below). Links will be posted on 
 |-----------|--------------|----------|-------------------------------------------------|
 | Monday    | 4:00 - 5:00 pm | Xin     | Buliding 2, 4th floor, Room 428                |
 | Tuesday   | 2:00 - 3:00 pm | Heather | Building 1, 4th floor, 421A (In-person and Zoom)    |
-| Wednesday  | 3:00 - 4:00 pm | Carmen | Building 1, 4th floor, 421A  |
+| Wednesday  | 3:00 - 4:00 pm | Carmen | Kresge 204  |
 | Thursday  | 4:00 - 5:00 pm | Nabi     | Buliding 2, 4th floor, Room 428|
 
 ## Labs
